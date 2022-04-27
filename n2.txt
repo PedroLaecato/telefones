@@ -1,0 +1,1 @@
+string ntelefone = 1338068087
